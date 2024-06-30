@@ -1,6 +1,3 @@
-Here's a README file content for your Spring Boot CRUD application with Redis caching and JUnit 5 testing:
-
----
 
 # Spring Boot CRUD Application with Redis Caching and JUnit 5 Testing
 
