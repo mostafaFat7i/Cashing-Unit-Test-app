@@ -20,7 +20,7 @@ This repository contains a Spring Boot application that demonstrates CRUD (Creat
 
 ### Prerequisites
 
-- Java 11 or higher
+- Java 21 or higher
 - Maven
 - Redis
 
